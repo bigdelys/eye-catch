@@ -1,0 +1,1302 @@
+3	2
+//Probe file
+//Minor revision number
+1
+//ProbeName
+%N	Name    
+//Probe type, number of sensors
+0	258
+//Position of fiducials X+, Y+, Y- on the subject
+%F	0.0914	0.0000	0.0000
+%F	0.0011	0.0687	0.0000
+%F	-0.0011	-0.0687	0.0000
+//Sensor type
+%S	1C00
+//Sensor name and data for sensor # 1
+%N	CMS     
+0.0388	0.0284	0.1385
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 2
+%N	DRL     
+0.0417	-0.0143	0.1406
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 3
+%N	A1      
+0.0685	0.0613	0.0181
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 4
+%N	A2      
+0.0831	0.0585	0.0382
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 5
+%N	A3      
+0.0877	0.0556	0.0557
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 6
+%N	A4      
+0.0876	0.0515	0.0729
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 7
+%N	A5      
+0.0791	0.0497	0.0900
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 8
+%N	A6      
+0.0675	0.0497	0.1026
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 9
+%N	A7      
+0.0540	0.0506	0.1127
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 10
+%N	A8      
+0.0593	0.0666	0.0023
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 11
+%N	A9      
+0.0650	0.0674	0.0302
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 12
+%N	A10     
+0.0730	0.0667	0.0469
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 13
+%N	A11     
+0.0758	0.0647	0.0654
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 14
+%N	A12     
+0.0720	0.0620	0.0815
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 15
+%N	A13     
+0.0595	0.0636	0.0946
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 16
+%N	A14     
+0.0423	0.0668	0.1047
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 17
+%N	A15     
+0.0375	0.0728	-0.0131
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 18
+%N	A16     
+0.0537	0.0703	0.0151
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 19
+%N	A17     
+0.0566	0.0729	0.0405
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 20
+%N	A18     
+0.0607	0.0718	0.0583
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 21
+%N	A19     
+0.0574	0.0708	0.0755
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 22
+%N	A20     
+0.0445	0.0740	0.0855
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 23
+%N	A21     
+0.0265	0.0778	0.0942
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 24
+%N	A22     
+0.0319	0.0769	0.0001
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 25
+%N	A23     
+0.0425	0.0770	0.0257
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 26
+%N	A24     
+0.0431	0.0799	0.0508
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 27
+%N	A25     
+0.0445	0.0791	0.0681
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 28
+%N	A26     
+0.0314	0.0827	0.0738
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 29
+%N	A27     
+0.0097	0.0829	0.0817
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 30
+%N	A28     
+0.0255	0.0776	0.0123
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 31
+%N	A29     
+0.0320	0.0799	0.0313
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 32
+%N	A30     
+0.0284	0.0844	0.0601
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 33
+%N	A31     
+0.0104	0.0867	0.0632
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 34
+%N	A32     
+-0.0117	0.0839	0.0673
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 35
+%N	B1      
+0.0824	0.0325	0.1078
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 36
+%N	B2      
+0.0774	0.0169	0.1213
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 37
+%N	B3      
+0.0875	-0.0064	0.1139
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 38
+%N	B4      
+0.0790	-0.0235	0.1189
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 39
+%N	B5      
+0.0795	-0.0400	0.1071
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 40
+%N	B6      
+0.0612	0.0410	0.1181
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 41
+%N	B7      
+0.0583	0.0248	0.1308
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 42
+%N	B8      
+0.0742	0.0001	0.1275
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 43
+%N	B9      
+0.0635	-0.0216	0.1279
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 44
+%N	B10     
+0.0658	-0.0426	0.1156
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 45
+%N	B11     
+0.0486	0.0366	0.1285
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 46
+%N	B12     
+0.0546	0.0016	0.1377
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 47
+%N	B13     
+0.0489	-0.0419	0.1258
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 48
+%N	B14     
+0.0322	0.0559	0.1227
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 49
+%N	B15     
+0.0226	0.0435	0.1334
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 50
+%N	B16     
+0.0203	0.0219	0.1454
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 51
+%N	B17     
+0.0312	0.0058	0.1468
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 52
+%N	B18     
+0.0088	-0.0140	0.1474
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 53
+%N	B19     
+0.0229	-0.0357	0.1377
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 54
+%N	B20     
+0.0322	-0.0540	0.1226
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 55
+%N	B21     
+0.0129	0.0590	0.1246
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 56
+%N	B22     
+0.0012	0.0385	0.1402
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 57
+%N	B23     
+-0.0116	0.0291	0.1426
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 58
+%N	B24     
+0.0000	0.0079	0.1488
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 59
+%N	B25     
+-0.0105	-0.0165	0.1440
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 60
+%N	B26     
+-0.0063	-0.0420	0.1363
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 61
+%N	B27     
+0.0078	-0.0545	0.1293
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 62
+%N	B28     
+-0.0081	0.0594	0.1257
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 63
+%N	B29     
+-0.0212	0.0433	0.1326
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 64
+%N	B30     
+-0.0284	0.0068	0.1372
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 65
+%N	B31     
+-0.0233	-0.0324	0.1360
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 66
+%N	B32     
+-0.0122	-0.0515	0.1294
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 67
+%N	C1      
+-0.0734	0.0443	-0.0112
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 68
+%N	C2      
+-0.0850	0.0289	-0.0030
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 69
+%N	C3      
+-0.0614	0.0624	0.0682
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 70
+%N	C4      
+-0.0696	0.0504	0.0767
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 71
+%N	C5      
+-0.0756	0.0288	0.0914
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 72
+%N	C6      
+-0.0732	0.0093	0.1012
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 73
+%N	C7      
+-0.0776	-0.0097	0.0925
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 74
+%N	C8      
+-0.0772	-0.0280	0.0825
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 75
+%N	C9      
+-0.0685	-0.0439	0.0732
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 76
+%N	C10     
+-0.0957	-0.0117	0.0038
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 77
+%N	C11     
+-0.0850	-0.0323	-0.0051
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 78
+%N	C12     
+-0.0733	0.0494	0.0584
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 79
+%N	C13     
+-0.0812	0.0286	0.0732
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 80
+%N	C14     
+-0.0809	0.0098	0.0827
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 81
+%N	C15     
+-0.0823	-0.0110	0.0750
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 82
+%N	C16     
+-0.0796	-0.0312	0.0651
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 83
+%N	C17     
+-0.0729	0.0518	0.0429
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 84
+%N	C18     
+-0.0840	0.0293	0.0543
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 85
+%N	C19     
+-0.0849	0.0117	0.0666
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 86
+%N	C20     
+-0.0865	-0.0122	0.0571
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 87
+%N	C21     
+-0.0805	-0.0317	0.0475
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 88
+%N	C22     
+-0.0720	0.0500	0.0249
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 89
+%N	C23     
+-0.0820	0.0305	0.0366
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 90
+%N	C24     
+-0.0859	0.0097	0.0499
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 91
+%N	C25     
+-0.0862	-0.0138	0.0404
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 92
+%N	C26     
+-0.0809	-0.0316	0.0313
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 93
+%N	C27     
+-0.0708	0.0479	0.0065
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 94
+%N	C28     
+-0.0826	0.0312	0.0187
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 95
+%N	C29     
+-0.0876	0.0068	0.0311
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 96
+%N	C30     
+-0.0878	-0.0166	0.0242
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 97
+%N	C31     
+-0.0822	-0.0368	0.0118
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 98
+%N	C32     
+-0.0915	0.0061	0.0144
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 99
+%N	D1      
+0.0472	-0.0547	0.1145
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 100
+%N	D2      
+0.0634	-0.0578	0.1015
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 101
+%N	D3      
+0.0754	-0.0593	0.0874
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 102
+%N	D4      
+0.0811	-0.0641	0.0686
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 103
+%N	D5      
+0.0298	-0.0707	0.1066
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 104
+%N	D6      
+0.0477	-0.0706	0.0965
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 105
+%N	D7      
+0.0604	-0.0721	0.0813
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 106
+%N	D8      
+0.0126	-0.0786	0.0985
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 107
+%N	D9      
+0.0298	-0.0793	0.0871
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 108
+%N	D10     
+0.0464	-0.0794	0.0725
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 109
+%N	D11     
+0.0627	-0.0757	0.0626
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 110
+%N	D12     
+0.0806	-0.0667	0.0538
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 111
+%N	D13     
+-0.0082	-0.0798	0.0872
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 112
+%N	D14     
+0.0106	-0.0831	0.0791
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 113
+%N	D15     
+0.0280	-0.0834	0.0685
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 114
+%N	D16     
+0.0435	-0.0813	0.0559
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 115
+%N	D17     
+0.0602	-0.0756	0.0469
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 116
+%N	D18     
+0.0765	-0.0687	0.0394
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 117
+%N	D19     
+-0.0204	-0.0769	0.0761
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 118
+%N	D20     
+-0.0027	-0.0821	0.0701
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 119
+%N	D21     
+0.0123	-0.0850	0.0601
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 120
+%N	D22     
+0.0284	-0.0839	0.0487
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 121
+%N	D23     
+0.0421	-0.0802	0.0389
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 122
+%N	D24     
+0.0490	-0.0771	0.0264
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 123
+%N	D25     
+0.0661	-0.0718	0.0272
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 124
+%N	D26     
+0.0127	-0.0833	0.0348
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 125
+%N	D27     
+0.0245	-0.0810	0.0259
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 126
+%N	D28     
+0.0350	-0.0787	0.0147
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 127
+%N	D29     
+0.0440	-0.0771	0.0028
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 128
+%N	D30     
+0.0085	-0.0783	0.0068
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 129
+%N	D31     
+0.0169	-0.0780	-0.0055
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 130
+%N	D32     
+0.0261	-0.0771	-0.0158
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 131
+%N	E1      
+-0.0540	-0.0604	0.0708
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 132
+%N	E2      
+-0.0372	-0.0714	0.0663
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 133
+%N	E3      
+-0.0209	-0.0799	0.0590
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 134
+%N	E4      
+-0.0646	-0.0525	0.0530
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 135
+%N	E5      
+-0.0478	-0.0667	0.0455
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 136
+%N	E6      
+-0.0682	-0.0519	0.0354
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 137
+%N	E7      
+-0.0544	-0.0644	0.0268
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 138
+%N	E8      
+-0.0716	-0.0494	0.0190
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 139
+%N	E9      
+-0.0554	-0.0606	0.0061
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 140
+%N	E10     
+-0.0706	-0.0465	-0.0002
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 141
+%N	E11     
+-0.0545	-0.0533	-0.0133
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 142
+%N	E12     
+-0.0707	-0.0442	-0.0185
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 143
+%N	E13     
+-0.0621	-0.0502	-0.0322
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 144
+%N	E14     
+-0.0480	-0.0549	-0.0305
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 145
+%N	E15     
+-0.0392	-0.0613	-0.0182
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 146
+%N	E16     
+-0.0223	-0.0663	-0.0230
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 147
+%N	E17     
+-0.0047	-0.0730	-0.0166
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 148
+%N	E18     
+0.0049	-0.0725	-0.0298
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 149
+%N	E19     
+0.0161	-0.0698	-0.0412
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 150
+%N	E20     
+0.0318	-0.0738	-0.0230
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 151
+%N	E21     
+-0.0111	-0.0665	-0.0389
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 152
+%N	E22     
+-0.0009	-0.0649	-0.0513
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 153
+%N	E23     
+0.0094	-0.0601	-0.0623
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 154
+%N	E24     
+0.0270	-0.0653	-0.0486
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 155
+%N	E25     
+-0.0258	-0.0620	-0.0394
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 156
+%N	E26     
+-0.0166	-0.0585	-0.0583
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 157
+%N	E27     
+-0.0072	-0.0528	-0.0703
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 158
+%N	E28     
+-0.0398	-0.0577	-0.0453
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 159
+%N	E29     
+-0.0314	-0.0554	-0.0609
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 160
+%N	E30     
+-0.0219	-0.0480	-0.0768
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 161
+%N	E31     
+-0.0598	-0.0542	0.0827
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 162
+%N	E32     
+-0.0445	-0.0655	0.0805
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 163
+%N	F1      
+0.0218	0.0689	0.1096
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 164
+%N	F2      
+-0.0018	0.0685	0.1122
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 165
+%N	F3      
+-0.0228	0.0615	0.1149
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 166
+%N	F4      
+-0.0384	0.0439	0.1205
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 167
+%N	F5      
+-0.0375	0.0204	0.1296
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 168
+%N	F6      
+-0.0446	0.0067	0.1289
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 169
+%N	F7      
+-0.0325	-0.0120	0.1360
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 170
+%N	F8      
+-0.0422	-0.0310	0.1249
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 171
+%N	F9      
+-0.0327	-0.0475	0.1242
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 172
+%N	F10     
+-0.0129	-0.0618	0.1183
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 173
+%N	F11     
+0.0095	-0.0679	0.1135
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 174
+%N	F12     
+-0.0282	-0.0706	0.0934
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 175
+%N	F13     
+-0.0083	-0.0748	0.1026
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 176
+%N	F14     
+-0.0310	-0.0626	0.1092
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 177
+%N	F15     
+-0.0504	-0.0446	0.1134
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 178
+%N	F16     
+-0.0609	-0.0271	0.1081
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 179
+%N	F17     
+-0.0556	-0.0075	0.1205
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 180
+%N	F18     
+-0.0607	0.0109	0.1133
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 181
+%N	F19     
+-0.0503	0.0290	0.1186
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 182
+%N	F20     
+-0.0525	0.0420	0.1098
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 183
+%N	F21     
+-0.0367	0.0621	0.1043
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 184
+%N	F22     
+-0.0161	0.0733	0.1028
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 185
+%N	F23     
+0.0064	0.0774	0.0991
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 186
+%N	F24     
+-0.0088	0.0796	0.0864
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 187
+%N	F25     
+-0.0326	0.0720	0.0908
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 188
+%N	F26     
+-0.0511	0.0567	0.0985
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 189
+%N	F27     
+-0.0638	0.0430	0.0948
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 190
+%N	F28     
+-0.0623	0.0257	0.1076
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 191
+%N	F29     
+-0.0680	-0.0114	0.1050
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 192
+%N	F30     
+-0.0573	-0.0473	0.0978
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 193
+%N	F31     
+-0.0430	-0.0606	0.0989
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 194
+%N	F32     
+-0.0677	-0.0319	0.0954
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 195
+%N	G1      
+0.0484	0.0620	-0.0290
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 196
+%N	G2      
+0.0317	0.0623	-0.0380
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 197
+%N	G3      
+0.0269	0.0686	-0.0228
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 198
+%N	G4      
+0.0215	0.0731	-0.0089
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 199
+%N	G5      
+0.0395	0.0526	-0.0553
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 200
+%N	G6      
+0.0176	0.0603	-0.0510
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 201
+%N	G7      
+0.0099	0.0692	-0.0343
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 202
+%N	G8      
+0.0006	0.0712	-0.0217
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 203
+%N	G9      
+0.0247	0.0515	-0.0657
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 204
+%N	G10     
+0.0011	0.0434	-0.0795
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 205
+%N	G11     
+-0.0038	0.0542	-0.0646
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 206
+%N	G12     
+-0.0107	0.0633	-0.0440
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 207
+%N	G13     
+-0.0177	0.0417	-0.0875
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 208
+%N	G14     
+-0.0238	0.0503	-0.0733
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 209
+%N	G15     
+-0.0532	0.0569	-0.0396
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 210
+%N	G16     
+-0.0302	0.0616	-0.0528
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 211
+%N	G17     
+-0.0208	0.0672	-0.0234
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 212
+%N	G18     
+-0.0468	0.0690	0.0803
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 213
+%N	G19     
+-0.0375	0.0612	-0.0351
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 214
+%N	G20     
+-0.0369	0.0685	-0.0007
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 215
+%N	G21     
+-0.0365	0.0736	0.0195
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 216
+%N	G22     
+-0.0334	0.0783	0.0359
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 217
+%N	G23     
+-0.0115	0.0845	0.0472
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 218
+%N	G24     
+-0.0291	0.0802	0.0536
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 219
+%N	G25     
+-0.0450	0.0724	0.0603
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 220
+%N	G26     
+-0.0520	0.0672	0.0462
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 221
+%N	G27     
+-0.0533	0.0650	0.0324
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 222
+%N	G28     
+-0.0534	0.0633	0.0141
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 223
+%N	G29     
+-0.0449	0.0620	-0.0145
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 224
+%N	G30     
+-0.0554	0.0583	-0.0056
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 225
+%N	G31     
+-0.0279	0.0801	0.0732
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 226
+%N	G32     
+-0.0601	0.0538	-0.0243
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 227
+%N	H1      
+0.0826	-0.0457	0.0930
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 228
+%N	H2      
+0.0858	-0.0250	0.1045
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 229
+%N	H3      
+0.0974	-0.0085	0.0961
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 230
+%N	H4      
+0.0876	0.0148	0.1062
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 231
+%N	H5      
+0.0866	0.0315	0.1013
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 232
+%N	H6      
+0.1006	0.0122	0.0931
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 233
+%N	H7      
+0.1090	-0.0085	0.0832
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 234
+%N	H8      
+0.0982	-0.0290	0.0941
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 235
+%N	H9      
+0.0899	-0.0505	0.0805
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 236
+%N	H10     
+0.1056	-0.0305	0.0740
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 237
+%N	H11     
+0.0923	-0.0540	0.0668
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 238
+%N	H12     
+0.1097	-0.0301	0.0594
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 239
+%N	H13     
+0.1130	-0.0070	0.0650
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 240
+%N	H14     
+0.1076	0.0133	0.0759
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 241
+%N	H15     
+0.0960	0.0333	0.0845
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 242
+%N	H16     
+0.1105	0.0162	0.0596
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 243
+%N	H17     
+0.1008	0.0358	0.0656
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 244
+%N	H18     
+0.1085	0.0199	0.0420
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 245
+%N	H19     
+0.0983	0.0413	0.0495
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 246
+%N	H20     
+0.1059	-0.0369	0.0446
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 247
+%N	H21     
+0.0952	0.0439	0.0360
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 248
+%N	H22     
+0.1114	-0.0071	0.0503
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 249
+%N	H23     
+0.0868	-0.0600	0.0514
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 250
+%N	H24     
+0.0822	-0.0632	0.0394
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 251
+%N	EXG1    
+0.1048	-0.0056	-0.0446
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 252
+%N	EXG2    
+0.1056	-0.0065	-0.0427
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 253
+%N	EXG3    
+0.1051	-0.0046	-0.0419
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 254
+%N	EXG4    
+0.1072	-0.0046	-0.0408
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 255
+%N	EXG5    
+0.1043	-0.0079	-0.0389
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 256
+%N	EXG6    
+0.1051	-0.0053	-0.0435
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 257
+%N	EXG7    
+0.1038	-0.0083	-0.0438
+//Sensor type
+%S	400
+//Sensor name and data for sensor # 258
+%N	EXG8    
+0.1045	-0.0065	-0.0447
