@@ -8,7 +8,7 @@ A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA 
 If you used EyeCatch, please include a reference to EyeCatch paper (below) in your publication :
 
 [Bigdely-Shamlo, Nima, Kenneth Kreutz-Delgado, Christian Kothe, and Scott Makeig. "EyeCatch: Data-mining over half a million EEG independent components to construct a fully-automated eye-component detector." In Engineering in Medicine and Biology Society (EMBC), 2013 35th Annual International Conference of the IEEE, pp. 5845-5848. IEEE, 2013.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4136453)
-```
+
 ## Usage
 
 Note: if you have already installed Measure Projection software, please use `pr.eyeCatch` instead of `eyeCatch` in the examples below.
