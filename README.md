@@ -4,15 +4,13 @@ A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA 
 [Measure Projection Toolbox (MPT)](http://sccn.ucsd.edu/wiki/MPT) includes EyeCatch software (as pr.eyeCatch class), if you have not installed MPT you can download EyeCatch stand-alone from this repository.
 
 ## Usage
-Example 1: Finding eye ICs in the EEG structure (if you have already installed Measure Projection software).
+
+Note: if you have already installed Measure Projection software, please use *pr.eyeCatch* instead of *eyeCatch* in the examples below.
+Example 1: Finding eye ICs in the EEG structure ().
 ```matlab
->> eyeDetector = pr.eyeCatch;     % create an object from the class. Once you made an object it can
+>> eyeDetector = eyeCatch;     % create an object from the class. Once you made an object it can
                                   % be used for multiple detections (much faster than creating an
                                   % object each time).
-```
-If you are using EyeCatch without Measure Projection toolbox, use the command below instead:
-```matlab
- >> eyeDetector = eyeCatch;
 ```
 then
 ```matlab
@@ -22,11 +20,11 @@ then
 ```
 Example 2: (application on a study)
 ```matlab    
- >> eyeDetector = pr.eyeCatch;     % create an object from the class. Once you made an object it can
+ >> eyeDetector = eyeCatch;        % create an object from the class. Once you made an object it can
                                    % be used for multiple detections (much faster than creating an
                                    % object each time).
  % read data from a loaded study
- >> [isEye similarity scalpmapObj] = pr.eyeDetector.detectFromStudy(STUDY, ALLEEG); 
+ >> [isEye similarity scalpmapObj] = eyeDetector.detectFromStudy(STUDY, ALLEEG); 
  >> find(isEye)                    % display the IC numbers for eye ICs (since isEye is a logical array). The order of ICs is same order as in STUDY.cluster(1).comps .
  >> scalpmapObj.plot(isEye)        % plot eye ICs
 ```
