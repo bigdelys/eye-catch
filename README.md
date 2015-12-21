@@ -7,23 +7,23 @@ EyeCatch is a fully automatic algorithm for finding Eye-Related ICA components s
 
 ## Usage
 Example 1:   (finding eye ICs in the EEG structure)
-```
+```matlab
 >> eyeDetector = pr.eyeCatch;     % create an object from the class. Once you made an object it can
                                   % be used for multiple detections (much faster than creating an
                                   % object each time).
 ```
 If you are using EyeCatch without Measure Projection toolbox, use the command below instead:
-```
+```matlab
  >> eyeDetector = eyeCatch;
 ```
 then
-```
+```matlab
 >> [eyeIC similarity scalpmapObj] = eyeDetector.detectFromEEG(EEG); % detect eye ICs
 >> eyeIC                          % display the IC numbers for eye ICs.
 >> scalpmapObj.plot(eyeIC)        % plot eye ICs
 ```
 Example 2: (application on a study)
-```    
+```matlab    
  >> eyeDetector = pr.eyeCatch;     % create an object from the class. Once you made an object it can
                                    % be used for multiple detections (much faster than creating an
                                    % object each time).
