@@ -3,7 +3,7 @@ A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA 
 
 [Measure Projection Toolbox (MPT)](http://sccn.ucsd.edu/wiki/MPT) includes EyeCatch software (as pr.eyeCatch class), if you have not installed MPT you can download EyeCatch stand-alone from this repository.
 
-## Reference
+## How to Reference
 
 If you used EyeCatch, please include a reference to EyeCatch paper (below) in your publication :
 ```
