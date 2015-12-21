@@ -4,7 +4,7 @@ A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA 
 [Measure Projection Toolbox (MPT)](http://sccn.ucsd.edu/wiki/MPT) includes EyeCatch software (as pr.eyeCatch class), if you have not installed MPT you can download EyeCatch stand-alone from this repository.
 
 ## Usage
-Example 1:   (finding eye ICs in the EEG structure)
+Example 1: Finding eye ICs in the EEG structure (if you have already installed Measure Projection software.)
 ```matlab
 >> eyeDetector = pr.eyeCatch;     % create an object from the class. Once you made an object it can
                                   % be used for multiple detections (much faster than creating an
