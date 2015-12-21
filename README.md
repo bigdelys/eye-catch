@@ -5,7 +5,7 @@ A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA 
 
 ## Usage
 
-Note: if you have already installed Measure Projection software, please use *pr.eyeCatch* instead of *eyeCatch* in the examples below.
+Note: if you have already installed Measure Projection software, please use `pr.eyeCatch` instead of `eyeCatch` in the examples below.
 Example 1: Finding eye ICs in the EEG structure ().
 ```matlab
 >> eyeDetector = eyeCatch;     % create an object from the class. Once you made an object it can
