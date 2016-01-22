@@ -1,4 +1,6 @@
 # EyeCatch
+
+[![Join the chat at https://gitter.im/bigdelys/eye-catch](https://badges.gitter.im/bigdelys/eye-catch.svg)](https://gitter.im/bigdelys/eye-catch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA components solely based on their scalpmaps. It has a performance comparable to CORRMAP while not requiring any user intervention.
 
 [Measure Projection Toolbox (MPT)](http://sccn.ucsd.edu/wiki/MPT) includes EyeCatch software (as pr.eyeCatch class), if you have not installed MPT you can download EyeCatch stand-alone from this repository.
