@@ -167,7 +167,7 @@ classdef eyeCatch
                 powerRatioTooHigh(i,:) = powerRatio > powerRatioThreshold;
             end;
             
-            eyeMovementICs = mean(powerRatioTooHigh,2) > timeRatioOfPowerRatioTooHigh; % more than 1% of time have a veery high low-frequency activity
+            eyeMovementICs = mean(powerRatioTooHigh,2) > timeRatioOfPowerRatioTooHigh; % more than 1% of time have a very high low-frequency activity
             if any(eyeMovementICs)
                 fprintf('Found %d additional eye movement ICs: %s\n', sum(eyeMovementICs), ...
                     strjoin_adjoiner_first(', ', arrayfun(@num2str, find(eyeMovementICs), 'UniformOutput', false)));
