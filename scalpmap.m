@@ -106,8 +106,11 @@ classdef scalpmap
                 set(gca, 'ButtonDownFcn', @scalpmapCallback, 'hittest', 'on')
                 
                 try
-                    if ~isempty(obj.subjectName) && ~isempty(obj.numberInDataset)
+                    if any(~cellfun(@isempty, obj.subjectName)) && ~isempty(obj.numberInDataset)
                         titleText = [obj.subjectName{subsetId(i)} ' / IC' num2str(obj.numberInDataset(subsetId(i)))];
+                        title(titleText);
+                    elseif ~isempty(obj.numberInDataset)
+                        titleText = ['IC' num2str(obj.numberInDataset(subsetId(i)))];
                         title(titleText);
                     else
                         title(['ID ' num2str(subsetId(i))]);
@@ -115,6 +118,7 @@ classdef scalpmap
                 catch
                 end;
             end;
+            colormap jet;
         end;
         
         function newObj = horzcat(varargin)
@@ -170,7 +174,7 @@ classdef scalpmap
             
             
             if nargin < 5
-                subjectName = repmat({'unknown'}, size(channelWeight,1), 1);
+                subjectName = repmat({''}, size(channelWeight,1), 1);
             end;
             
             if nargin < 4
