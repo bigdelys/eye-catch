@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/logo.svg" width="90%">
+  <img src="/logo.svg" width="70%">
 </div>
 
 # EyeCatch
