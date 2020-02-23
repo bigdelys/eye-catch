@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="/logo.svg" width="90%">
+</div>
+
 # EyeCatch
 A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA components solely based on their scalpmaps. It has a performance comparable to CORRMAP while not requiring any user intervention.
 
@@ -30,7 +34,7 @@ Example 2: (application on a study)
                                    % be used for multiple detections (much faster than creating an
                                    % object each time).
  % read data from a loaded study
- >> [isEye similarity scalpmapObj] = eyeDetector.detectFromStudy(STUDY, ALLEEG); 
+ >> [isEye similarity scalpmapObj] = eyeDetector.detectFromStudy(STUDY, ALLEEG);
  >> find(isEye)                    % display the IC numbers for eye ICs (since isEye is a logical array). The order of ICs is same order as in STUDY.cluster(1).comps .
  >> scalpmapObj.plot(isEye)        % plot eye ICs
 ```
