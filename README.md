@@ -3,7 +3,7 @@
 </div>
 
 # EyeCatch
-A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA components solely based on their scalpmaps. It has a performance comparable to CORRMAP while not requiring any user intervention.
+A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA components based on their scalpmaps and spectrum signatures (new). It has a performance comparable to CORRMAP while not requiring any user intervention.
 
 [Measure Projection Toolbox (MPT)](http://sccn.ucsd.edu/wiki/MPT) includes EyeCatch software (as pr.eyeCatch class), if you have not installed MPT you can download EyeCatch stand-alone from this repository.
 
@@ -38,3 +38,5 @@ Example 2: (application on a study)
  >> find(isEye)                    % display the IC numbers for eye ICs (since isEye is a logical array). The order of ICs is same order as in STUDY.cluster(1).comps .
  >> scalpmapObj.plot(isEye)        % plot eye ICs
 ```
+
+Created by Nima Bigdely-Shamlo, PhD.
