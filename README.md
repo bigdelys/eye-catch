@@ -3,11 +3,14 @@
 </div>
 
 # EyeCatch
-A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA components based on their scalpmaps and spectrum signatures (new). It has a performance comparable to CORRMAP while not requiring any user intervention. Here is a sample eye-related ICA scalpmaps used in EyeCatch:
+A fully automatic algorithm, implemented in MATLAB, for finding Eye-Related ICA components based on their scalpmaps and spectrum signatures (new). It has a performance comparable to CORRMAP while not requiring any user intervention. 
+
+Here is a sample eye-related ICA scalpmaps used in EyeCatch:
 
 <div align="center">
   <img src="/eye_ic_scalpmaps.jpg" width="60%">
 </div>
+
 
 
 [Measure Projection Toolbox (MPT)](http://sccn.ucsd.edu/wiki/MPT) includes EyeCatch software (as pr.eyeCatch class), if you have not installed MPT you can download EyeCatch stand-alone from this repository.
