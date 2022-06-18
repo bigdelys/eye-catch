@@ -127,7 +127,7 @@ classdef scalpmap
             for i=2:length(varargin)
                 newObj.originalChannelWeight = cat(1, newObj.originalChannelWeight, varargin{i}.originalChannelWeight);
                 
-                % attention: not normnalized yet, woudl need additional normalization
+                % attention: not normnalized yet, would need additional normalization
                 newObj.normalizedChannelWeight = cat(1, newObj.normalizedChannelWeight, varargin{i}.normalizedChannelWeight);                
                 newObj.normalizationPolarity = cat(2, newObj.normalizationPolarity, varargin{i}.normalizationPolarity);                
                 newObj.subjectName = cat(1, newObj.subjectName, varargin{i}.subjectName);
